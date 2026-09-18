@@ -46,3 +46,6 @@ __pycache__/
 # Generated ML artifacts
 backend/static/explainability/
 backend/models/cropcare_model_extracted/
+
+
+
